@@ -1,0 +1,64 @@
+
+ul{
+	list-style: none;
+}
+li{
+	float: left;
+}
+#field{
+	width: 700px;
+	height: 200px;
+}
+
+#headline{
+	color: red;
+	font-size: 40px;
+	font-weight: bold;
+}
+#colors{
+	height: 50px;
+	width: 650px;
+	margin-left: 25px;
+	margin-top: 20px;
+	border: 1px solid #8F8F8F ;
+}
+#one{
+	margin-left: -30px;
+	height: 25px;
+	width: 25px;
+}
+#two{
+	height: 25px;
+	width: 25px;
+	margin-left: 10px;
+}
+#three{
+	height: 25px;
+	width: 25px;
+	margin-left: 10px;
+}
+#four{
+	height: 25px;
+	width: 25px;
+	margin-left: 10px;
+}
+#five{
+	height: 25px;
+	width: 25px;
+	margin-left: 10px;
+}
+#six{
+	height: 25px;
+	width: 25px;
+	margin-left: 10px;
+}
+#words{
+	height: 60px;
+	width: 600px;
+	margin-left: 50px;
+	margin-top: 15px;
+	border: 1px solid black ;
+}
+.moveup{
+	margin-top: -10px;
+}
