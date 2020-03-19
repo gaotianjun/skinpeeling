@@ -23,31 +23,37 @@ li{
 	border: 1px solid #8F8F8F ;
 }
 #one{
+	background-color: #EEB4B4;
 	margin-left: -30px;
 	height: 25px;
 	width: 25px;
 }
 #two{
+	background-color: #EEB422;
 	height: 25px;
 	width: 25px;
 	margin-left: 10px;
 }
 #three{
+	background-color: #FF0000;
 	height: 25px;
 	width: 25px;
 	margin-left: 10px;
 }
 #four{
+	background-color: #DBDBDB;
 	height: 25px;
 	width: 25px;
 	margin-left: 10px;
 }
 #five{
+	background-color: #B0E0E6;
 	height: 25px;
 	width: 25px;
 	margin-left: 10px;
 }
 #six{
+	background-color: #DDA0DD;
 	height: 25px;
 	width: 25px;
 	margin-left: 10px;
